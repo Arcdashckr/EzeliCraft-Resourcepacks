@@ -2,7 +2,7 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "content_meta",
+		"remote_parent": "EC_SezonAscend_Main/content_meta",
 		"files": {
 			"pack.mcmeta": {
 				"hash": "54c360cefd3313d566289d5723c6f4ddbb3f32de",

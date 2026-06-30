@@ -4,13 +4,13 @@
 	"name": "EC_SezonAscend_Main",
 	"contents": [
 		{
-			"url": "content_main/content.json",
+			"url": "EC_SezonAscend_Main/content_main/content.json",
 			"hash": "691300000910b71f8fab65ef796369b920b99779",
 			"id": "main",
 			"name": "Main content"
 		},
 		{
-			"url": "content_meta/content.json",
+			"url": "EC_SezonAscend_Main/content_meta/content.json",
 			"hash": "ec66f7e1346f8d13752455c864ac957bafe3e563",
 			"hidden": true,
 			"required": true
