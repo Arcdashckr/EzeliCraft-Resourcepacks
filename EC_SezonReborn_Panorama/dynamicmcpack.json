@@ -1,0 +1,8 @@
+{
+  "remote": {
+    "type": "dynamic_repo",
+    "url": "https://arcdashckr.github.io/EzeliCraft-Resourcepacks/main/",
+    "sign_no_required": true
+  },
+  "formatVersion": 1
+}

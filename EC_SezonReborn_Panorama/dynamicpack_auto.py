@@ -129,7 +129,7 @@ def main():
 def init_repo():
     global contents, jrepo
     contents = {}
-    jrepo = json.loads(open("dynamicmcpack.repo.json", "r").read())
+    jrepo = json.loads(open("EC_SezonReborn_Panorama/dynamicmcpack.repo.json", "r").read())
     debug("Repo file loaded!")
     for x in jrepo["contents"]:
         EXCLUDE_UNASSIGNED.append(x["url"])
@@ -143,8 +143,8 @@ def init_repo():
 
 def save_jrepo():
     global jrepo
-    open("dynamicmcpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
-    calc_sha1_hash("dynamicmcpack.repo.json")
+    open("EC_SezonReborn_Panorama/dynamicmcpack.repo.json", "w").write(json.dumps(jrepo, indent='\t'))
+    calc_sha1_hash("EC_SezonReborn_Panorama/dynamicmcpack.repo.json")
 
 
 

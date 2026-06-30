@@ -1,0 +1,53 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "EC_SezonReborn_Panorama/content_panorama",
+		"files": {
+			"assets/minecraft/textures/gui/title/edition.png": {
+				"hash": "aba7402f3bbc5c98df2477058a3eb693c29517b3",
+				"size": 257
+			},
+			"assets/minecraft/textures/gui/title/minceraft.png": {
+				"hash": "77a625bb9ecdc98f8092354d392d9340fb9f2194",
+				"size": 78178
+			},
+			"assets/minecraft/textures/gui/title/minecraft.png": {
+				"hash": "60876ad8e3c04388173f82a0646253d5780a0a28",
+				"size": 76995
+			},
+			"assets/minecraft/textures/gui/title/mojangstudios.png": {
+				"hash": "58b5198fa5161534606bbd9c385c7df97f3264a3",
+				"size": 50475
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_0.png": {
+				"hash": "327439bfd9a1fc1a385ff654361673cda893361e",
+				"size": 1614932
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_1.png": {
+				"hash": "8f595f6d55ae347c91d2d56e1a3677a89e335015",
+				"size": 1398182
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_2.png": {
+				"hash": "c70d69eac3683783cad66ba251dcd1dcb02b3fa7",
+				"size": 1963459
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_3.png": {
+				"hash": "1909457d91810bcdb3912b8e1bc9215c8b43eb9b",
+				"size": 1603764
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_4.png": {
+				"hash": "c33a69b4ffaecf9ec1b03ca49cb1b3b3d1e288f4",
+				"size": 60797
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_5.png": {
+				"hash": "ca8952264ef244cce0c5918ad7f074728a2ac03b",
+				"size": 2676367
+			},
+			"assets/minecraft/textures/gui/title/background/panorama_overlay.png": {
+				"hash": "4293b118b2fa3d5eca3e0fb785b685aeabb0231d",
+				"size": 120
+			}
+		}
+	}
+}

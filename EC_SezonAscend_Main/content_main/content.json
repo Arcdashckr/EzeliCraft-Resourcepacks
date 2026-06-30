@@ -1,0 +1,29 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "EC_SezonAscend_Main/content_main",
+		"files": {
+			"assets/minecraft/textures/gui/title/edition.png": {
+				"hash": "aba7402f3bbc5c98df2477058a3eb693c29517b3",
+				"size": 257
+			},
+			"assets/minecraft/textures/gui/title/minceraft.png": {
+				"hash": "7c2aadb46a5138b273fe5b01599d5800b3bcf270",
+				"size": 77525
+			},
+			"assets/minecraft/textures/gui/title/minecraft.png": {
+				"hash": "eed28ff6cb26c866d21bf2230140d36fcd69019a",
+				"size": 76545
+			},
+			"assets/minecraft/textures/gui/title/mojangstudios.png": {
+				"hash": "58b5198fa5161534606bbd9c385c7df97f3264a3",
+				"size": 50475
+			},
+			"assets/optifine/color.properties": {
+				"hash": "c3ddd882b6e9025f4527637e5fd3652b9b4a156b",
+				"size": 263
+			}
+		}
+	}
+}

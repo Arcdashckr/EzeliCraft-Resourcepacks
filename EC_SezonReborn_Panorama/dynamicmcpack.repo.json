@@ -1,0 +1,20 @@
+{
+	"formatVersion": 1,
+	"build": 10,
+	"name": "EC_SezonReborn_Panorama",
+	"contents": [
+		{
+			"url": "EC_SezonReborn_Panorama/content_panorama/content.json",
+			"hash": "b56ae740c7b09a0c4cbc2de8891317938add59bd",
+			"id": "panorama",
+			"name": "Panorama content"
+		},
+		{
+			"url": "EC_SezonReborn_Panorama/content_meta/content.json",
+			"hash": "d67266d1247c26b90a008355f24d906d97a21ea5",
+			"id": "meta",
+			"hidden": true,
+			"required": true
+		}
+	]
+}

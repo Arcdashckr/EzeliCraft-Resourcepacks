@@ -1,0 +1,17 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "EC_SezonReborn_Panorama/content_meta",
+		"files": {
+			"pack.mcmeta": {
+				"hash": "7cc66726faa9858abfa8843639ea8816fc66a7c7",
+				"size": 199
+			},
+			"pack.png": {
+				"hash": "d3d54e71a8eca10b3d8b256ace9ba1e268eb624b",
+				"size": 80736
+			}
+		}
+	}
+}
