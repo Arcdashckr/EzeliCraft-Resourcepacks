@@ -2,7 +2,7 @@
 	"formatVersion": 1,
 	"content": {
 		"parent": "",
-		"remote_parent": "EC_SezonAscend_Main/content_main",
+		"remote_parent": "content_main",
 		"files": {
 			"assets/minecraft/textures/gui/title/edition.png": {
 				"hash": "aba7402f3bbc5c98df2477058a3eb693c29517b3",

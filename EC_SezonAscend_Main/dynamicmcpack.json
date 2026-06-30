@@ -1,7 +1,7 @@
 {
   "remote": {
     "type": "dynamic_repo",
-    "url": "https://arcdashckr.github.io/EzeliCraft-Resourcepacks/main/",
+    "url": "https://arcdashckr.github.io/EzeliCraft-Resourcepacks/main/EC_SezonAscend_Main",
     "sign_no_required": true
   },
   "formatVersion": 1
